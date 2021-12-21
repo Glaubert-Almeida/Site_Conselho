@@ -1,0 +1,55 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../Site_Conselho/images/gramado.jpeg");
+}
+
+p {  
+    padding-top: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #a9e20a;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: -8px;
+    color: #ffffff;
+}
+
+span {
+    margin-left: 400px;
+    color: #5766bd;
+    font-weight: 900;
+}
+
+.btn {
+    background-color: #2b0fcc;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.288);
+}
+
+.btn:hover {
+    color: #000000;
+    background-color: #8393e9c5;
+    transition-duration: 1s;
+}
+
+.container {
+    margin-top: 100px;
+    margin-left: 300px
+}
+
+#conselho{
+    line-height: 40px;
+    color: #72005f;
+    font-size: 32px;
+    font-weight: 900;
+}
